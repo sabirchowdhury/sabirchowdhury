@@ -45,7 +45,7 @@ Currently, I am actively seeking a new employment opportunity that will enable m
 
 
 <br />
-<h3 align="left">Back-End/Object-Oriented-Programming/Procedural/Middleware Languages:</h3>
+<h3 align="left">Back-End, Object-Oriented-Programming, Procedural & Middleware Languages:</h3>
 - Commercial Experience nodejs
 - hobbiyist programming
 - parallel
@@ -72,7 +72,7 @@ Currently, I am actively seeking a new employment opportunity that will enable m
 
 
 <br />
-<h3 align="left">Testing/Scripting Languages:</h3>
+<h3 align="left">Testing & Scripting Languages:</h3>
 - bash
 - python
 - node.js
