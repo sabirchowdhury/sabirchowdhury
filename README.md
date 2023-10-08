@@ -37,10 +37,11 @@ Currently, I am actively seeking a new employment opportunity that will enable m
   - Academic experience: collaborated with peers to design and build websites for numerous GCSE, A-Level and University Projects.
   - Started building webpages in HTML, CSS and JavaScript as a hobbiyist in early secondary school, and have continued to build webapps as a freelancer.
 
-## EDIT
-- <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="15"/> **Next.js**
-- <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" width="15"/> **Storybook**
+<br />
+<h3 align="left">Frameworks:</h3>
 
+- <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="15"/> **Next.js**
+- remix
 
 
 <br />
@@ -98,7 +99,7 @@ Currently, I am actively seeking a new employment opportunity that will enable m
 - Arduino
 - Radxa Rock Pi
 - Raspberrt pi
-- PickIT
+- PickIT 3
 
 <br />
 <h3 align="left">Deployment & Cloud:</h3>
