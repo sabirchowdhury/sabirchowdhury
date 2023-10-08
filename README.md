@@ -8,7 +8,7 @@ My journey into the world of programming began when I was just 12 years old thro
 
 I've recently graduated with a BEng in Computer Systems Engineering (A blend of computer science and electronics) from The University of Bath. I had the opportunity to work full-time as a full stack developer at an exciting startup through my placement year. Working closely with the founder, CTO and senior developers was an invaluable experience that enriched me with a wealth of knowledge and practical skills.  
 
-Subsequently, during my final year, I embarked on a part-time internship as an Investment Analyst at Europe's leading pre-seed investment fund for universtiy startups. This unique opportunity allowed me to explore the business side of the startup world. The knowledge I acquired during this time has propelled me forward on my path to becoming a well-rounded programmer with a keen understanding of business dynamics.  
+Subsequently, during my final year, I embarked on a part-time internship as an Investment Analyst at Europe's leading pre-seed investment fund for university startups. This unique opportunity allowed me to explore the business side of the startup world. The knowledge I acquired during this time has propelled me forward on my path to becoming a well-rounded programmer with a keen understanding of business dynamics.  
 
 Currently, I am actively seeking a new employment opportunity that will enable me to continue my career in software development.
 
