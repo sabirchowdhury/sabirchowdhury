@@ -1,36 +1,27 @@
+# WIP
 
 <h1 align="center">Hi 👋, I'm Sabir</h1>
 <h3 align="center">Software developer</h3>
 
-<h2 align="left">About me:</h2>
-My journey into the world of programming began when I was just 12 years old through my older brother, who at the time was studying Computer Science for his GCSE's. I grew up in a family where everything is a competition, and I was adamant that I could create a better game than him. Little did I know that this initial spark of ambition would evolve into a passion for creating applications, games, and even venturing into the realm of robotics.
+<h2 align="left">About me:</h2>  
+My journey into the world of programming began when I was just 12 years old through my older brother, who at the time was studying Computer Science for his GCSE's. I grew up in a family where everything is a competition, and I was adamant that I could create a better game than him. Little did I know that this initial spark of ambition would evolve into a passion for creating applications, games, and even venturing into the realm of robotics. <br><br>
 
-<br>
-<br>
+I've recently graduated with a BEng in Computer Systems Engineering (A blend of computer science and electronics) from The University of Bath. I had the opportunity to work full-time as a full stack developer at an exciting startup through my placement year. Working closely with the founder, CTO and senior developers was an invaluable experience that enriched me with a wealth of knowledge and practical skills.  
 
-I've just graduated with a BEng in Computer Systems Engineering (A blend of computer science and electronics) from The University of Bath. I had the opportunity to work full-time as a full-stack developer at an exciting start-up through my placement year. Working closely with the founder, CTO and senior developers was an invaluable experience that enriched me with a wealth of knowledge and practical skills.
-
-<br>
-<br>
-
-Subsequently, during my final year, I embarked on a part-time internship as an Investment Analyst at Europe's leading pre-seed investment fund for universtiy startups. This unique opportunity allowed me to explore the business side of the tech world. The knowledge I acquired during this time has propelled me forward on my path to becoming a well-rounded programmer with a keen understanding of business dynamics.
-
-<br>
-<br>
+Subsequently, during my final year, I embarked on a part-time internship as an Investment Analyst at Europe's leading pre-seed investment fund for universtiy startups. This unique opportunity allowed me to explore the business side of the startup world. The knowledge I acquired during this time has propelled me forward on my path to becoming a well-rounded programmer with a keen understanding of business dynamics.  
 
 Currently, I am actively seeking a new employment opportunity that will enable me to continue my career in software development.
 
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sabir-chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabir-chowdhury" height="30" width="40" /></a>
 </p>
 
+<br />
 
 
 <h2 align="left">Languages and Tools:</h2>
-
-
-
 
 <h3 align="left">Front-End Languages:</h3>
 
@@ -46,11 +37,13 @@ Currently, I am actively seeking a new employment opportunity that will enable m
   - Academic experience: collaborated with peers to design and build websites for numerous GCSE, A-Level and University Projects.
   - Started building webpages in HTML, CSS and JavaScript as a hobbiyist in early secondary school, and have continued to build webapps as a freelancer.
 
+## EDIT
+- <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="15"/> **Next.js**
+- <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" width="15"/> **Storybook**
 
 
 
-
-
+<br />
 <h3 align="left">Back-End/Object-Oriented-Programming/Procedural/Middleware Languages:</h3>
 - Commercial Experience nodejs
 - hobbiyist programming
@@ -59,119 +52,73 @@ Currently, I am actively seeking a new employment opportunity that will enable m
 - uni modules, DSA
 - currently working on 
 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="py-logo" width="15"/> **Python**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c-logo" width="15"/> **C**
 
+
+<br />
 <h3 align="left">Team Work Tools:</h3>
-- git
+- git -notion -slack -linear -trello
+- commercial experience and project management
+- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="15"/> **Git** - Completed [Learn Git Branching](https://learngitbranching.js.org/) course.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="15"/> **Notion**
+- <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" width="15"/> **Figma**
 
+<br />
 <h3 align="left">Database:</h3>
+- SQL -MySQL -Prisma -PostgreSQL
+- <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="15"/> **MySQL**
 
 
-<h3 align="left">Scripting Languages:</h3>
+<br />
+<h3 align="left">Testing/Scripting Languages:</h3>
 - bash
 - python
 - node.js
+- cypress
 - automated scripts, parallel programming
 - batch run tasks
+-husky
+-github actions
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash-logo" width="15"/> **Bash**
+- <img src="https://blog.knoldus.com/wp-content/uploads/2022/04/cypress.png" width="15"/> **Cypress**
+- <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="15"/> **GitHub Actions**
+- 🐶 **Husky**
 
+
+<br />
 <h3 align="left">Logic Programming & Hardware Descriptive Languages:</h3>
 - system verilog
 - quartus prime
 - modelsim
 - FPGA
 
+<br />
 <h3 align="left">Hardwares:</h3>
 - Arduino
 - Radxa Rock Pi
 - Raspberrt pi
 - PickIT
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="py-logo" width="15"/> **Python**
-
-
-- - [An on-chain, order book style DEX](https://github.com/cjxe/on-chain-dex) *(← my bachelors project)*
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c-logo" width="15"/> **C**
-
-
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash-logo" width="15"/> **Bash**
-
+<br />
+<h3 align="left">Deployment & Cloud:</h3>
+-aws - ec2 - s3
+- azure
+- google cloud services
+- flight control
 
 
 
-## Tools I use for ...
-
-### Teamwork
-- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="15"/> **Git** - Completed [Learn Git Branching](https://learngitbranching.js.org/) course.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="15"/> **Notion**
-- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" width="15"/> **JIRA**
-
-### Front end
-- <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" width="15"/> **Figma**
-- - [My current work called Transfer Coins](https://www.figma.com/proto/nr1x8mEOF5t30K8d7PQnMb/Transfer-Coins?page-id=1%3A14&node-id=32%3A2515&viewport=-2174%2C-713%2C0.22&scaling=min-zoom&starting-point-node-id=32%3A2515&hide-ui=1).
-- - [Some of my old designs](https://imgur.com/a/Cc5zd7c).
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="15"/> **React**
-- - Built [Transfer Coins](https://transfer-coins.vercel.app/).
-- - Used it to build a UI while working as a Front End Engineer at [VIOOH](https://www.viooh.com/).
-- <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="15"/> **Next.js**
-- <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" width="15"/> **Storybook**
-- - Built and tested a [design system for Transfer Coins](https://cjxe.github.io/transfer-coins/).
-- - Built and tested a design system while working as a Front End Engineer at [VIOOH](https://www.viooh.com/).
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="15"/> **Tailwind CSS**
-
-### Data
-- <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" width="15"/> **Redux (Toolkit)** - Used it while working as a Front End Engineer at [VIOOH](https://www.viooh.com/).
-- <img src="https://seeklogo.com/images/F/firestore-logo-3828671CC5-seeklogo.com.png" width="15"/> **Cloud Firestore** - Implemented it in a monitoring service to log user activities, perform CRUD operations and search queries.
-- <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="15"/> **MongoDB** - Implemented it in the backend of a full stack website to log products and perform CRUD operations.
-- <img src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" width="15"/> **Redis** - Utilised when working with Refresh Tokens (JWT) for whitelisting purposes.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" width="15"/> **SQLite**
-- <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="15"/> **MySQL**
-
-### Code analysis & formatting
-- <img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" width="15"/> **ESLint** - My default config is [airbnb-base](https://www.npmjs.com/package/eslint-config-airbnb-base).
-- <img src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" width="15"/> **Prettier**
-
-### Testing
-- <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="15"/> **Jest** - Followed TDD while working as a Front End Engineer at [VIOOH](https://www.viooh.com/).
-- <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" width="15"/> **Cucumber** - Completed [BDD with Cucumber (JavaScript) course](https://school.cucumber.io/courses/bdd-with-cucumber-javascript).
-- <img src="https://blog.knoldus.com/wp-content/uploads/2022/04/cypress.png" width="15"/> **Cypress**
-- <img src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" width="15"/> **Mocha** - Followed TDD/BDD approach for my [bachelor's project](https://github.com/cjxe/on-chain-dex).
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="15"/> **Selenium** - Built a [configurable end-to-end test](https://github.com/cjxe/supreme-auto-checkout) for a luxury clothing brand.
-  
-### Automation
-- <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="15"/> **GitHub Actions** - Utilise it for automatic testing and deployments. [An example project for using Terraform with GitHub Actions.](https://github.com/cjxe/github-oidc-terraform-aws)
-- 🐶 **Husky** - Created a pre-commit hook to format the local codebase with Prettier, lint with ESLint and build the project to increase the deployment success rate from 80% to 100%.
-  
-### Deployment
-- <img src="https://icons-for-free.com/download-icon-Terraform-1329545833434920628_512.png" width="15"/> **Terraform** - [I deployed a VPC with subnets and EC2 instances](https://github.com/cjxe/terraform-tutorial).
-- <img src="https://static.netify.ai/logos/h/e/t/urgmare/icon.png?v=2" width="15"/> **Dedicated Server (Hetzner)** - Deployed two BSC full nodes, created user groups, changed permissions, managed firewall and installed a GUI.
-- <img src="https://seeklogo.com/images/D/digital-ocean-logo-7B970FE624-seeklogo.com.png" width="15"/> **VPS (DigitalOcean)**
-- <img src="https://seeklogo.com/images/V/vercel-logo-F748E39008-seeklogo.com.png" width="15"/> **Vercel**
-
-### Documentation
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="15"/> **Swagger** - Documented a REST API in OpenAPI 3.0.0 specification.
-
-<details>
-<summary><h3>🔗 Blockchain</h3></summary>
-<ul>
-<li><img src="https://i.imgur.com/xUTtTJN.png" width="15"/> <strong>Hardhat</strong> - I use it to <a href="https://rinkeby.etherscan.io/address/0x25226c350c7c99c48389dd5c97b85937f5e96eca#code">deploy</a>, <em><a href="https://rinkeby.etherscan.io/address/0x2551B4246b6F25212A576d48f610b7e7b204DD42#code">verify</a></em>, test and debug smart contracts.</li>
-<li><img src="https://miro.medium.com/max/420/1*3jj5tQildSIyhl-RO6RLlA.png" width="15"/> <strong>Remix</strong></li>
-<li><img src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e" width="15"/> <strong>web3.js</strong></li>
-<li><img src="https://miro.medium.com/max/1575/0*IQxtovIkGXiSWzVg.png" width="15"/> <strong>ether.js</strong></li>
-<li><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" width="15"/> <strong>IPFS</strong> - Developed a system that allows for the storage of supply chain product data on the IPFS network.</li>
-</ul>
-</details>
 
 
-<details>
-  <summary><h3>☁️ AWS</h3></summary>
-<ul>
-<li><img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/08/12/Screen-Shot-2020-08-12-at-9.51.17-AM.png" width="15"/> <b>Route 53</b> - <a href="https://github.com/cjxe/aws-route53-cloudfront-s3">I hosted a static React app</a>.</li>
-<li><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4i3isyvE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://day-journal.com/memo/images/logo/aws/cloudfront.png" width="15"/> <b>CloudFront</b></li>
-<li><img src="https://seeklogo.com/images/A/aws-certificate-manager-logo-2639B06BF4-seeklogo.com.png" width="15"/> <b>Certificate Manager</b></li>
-<li><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--PnCOq3po--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://day-journal.com/memo/images/logo/aws/s3.png" width="15"/> <b>S3</b></li>
-<li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ovcIrbkeKOg29xfYVDD0critm01qv3ylLg&usqp=CAU" width="15"/> <b>VPC</b> - <a href="https://github.com/cjxe/terraform-tutorial">See my project</a>.</li>
-<li><img src="https://www.logicata.com/wp-content/uploads/2020/08/Amazon-EC2@4x-e1593195270371.png" width="15"/> <b>EC2</b> - Created a public subnet enclosed by a security group, which included an EC2 instance with both an elastic IP and an elastic network interface.
-  </ul>
-</details>
+
+
+
+
+
+
+
+
 
 
 
