@@ -8,6 +8,9 @@
 
 I'm a software developer based in the UK, with a background in small/medium growing companies. Recently made the move of developing my code in GitHub, hence some of my earlier repositories look somewhat similar to a construction site.
 
+- I am currently learning about AI & Machine Leaarning.
+- I am developing a REST api in C++, playing around with things like service authentication and WebSockets.
+
 <!---
 <h2 align="left">About me:</h2>  
 My journey into the world of programming began when I was just 12 years old through my older brother, who at the time was studying Computer Science for his GCSE's. I grew up in a family where everything is a competition, and I was adamant that I could create a better game than him. Little did I know that this initial spark of ambition would evolve into a passion for creating applications, games, and even venturing into the realm of robotics. <br><br>
