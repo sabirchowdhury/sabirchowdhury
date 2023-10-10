@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm Sabir</h1>
 <h3 align="center">Software developer</h3>
 
+
+<h2 align="left">About me:</h2>  
+
+I'm a software developer based in the UK, with a background in small/medium growing companies. Recently made the move of developing my code in GitHub, hence some of my earlier repositories look somewhat similar to a construction site.
+
+<!---
 <h2 align="left">About me:</h2>  
 My journey into the world of programming began when I was just 12 years old through my older brother, who at the time was studying Computer Science for his GCSE's. I grew up in a family where everything is a competition, and I was adamant that I could create a better game than him. Little did I know that this initial spark of ambition would evolve into a passion for creating applications, games, and even venturing into the realm of robotics. <br><br>
 
@@ -11,6 +17,7 @@ I've recently graduated with a BEng in Computer Systems Engineering (A blend of 
 Subsequently, during my final year, I embarked on a part-time internship as an Investment Analyst at Europe's leading pre-seed investment fund for university startups. This unique opportunity allowed me to explore the business side of the startup world. The knowledge I acquired during this time has propelled me forward on my path to becoming a well-rounded programmer with a keen understanding of business dynamics.  
 
 Currently, I am actively seeking a new employment opportunity that will enable me to continue my career in software development.
+-->
 
 <br />
 <h3 align="left">Connect with me:</h3>
