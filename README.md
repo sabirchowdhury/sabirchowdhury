@@ -53,6 +53,7 @@ Currently, I am actively seeking a new employment opportunity that will enable m
 
 - <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="15"/> **Next.js**
 - remix
+- .NET
 
 
 <br />
