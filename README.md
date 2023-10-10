@@ -8,8 +8,9 @@
 
 I'm a software developer based in the UK, with a background in small/medium growing companies. Recently made the move of developing my code in GitHub, hence some of my earlier repositories look somewhat similar to a construction site.
 
-- I am currently learning about AI & Machine Leaarning.
+- I am currently advancing my understanding in AI & Machine Leaarning, and its implementation.
 - I am developing a REST api in C++, playing around with things like service authentication and WebSockets.
+- I am also actively updating my GitHub and portfolio website, pls ignore if some of my repositories look like a construction site.
 
 <!---
 <h2 align="left">About me:</h2>  
