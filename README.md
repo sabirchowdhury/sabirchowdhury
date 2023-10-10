@@ -6,7 +6,7 @@
 
 <h2 align="left">About me:</h2>  
 
-I'm a software developer based in the UK, with a background in small/medium growing companies. Recently made the move of developing my code in GitHub, hence some of my earlier repositories look somewhat similar to a construction site.
+I'm a software developer based in the UK, with a background in small/medium growing companies.
 
 - I am currently advancing my understanding in AI & Machine Leaarning, and its implementation.
 - I am developing a REST api in C++, playing around with things like service authentication and WebSockets.
