@@ -120,6 +120,7 @@ Currently, I am actively seeking a new employment opportunity that will enable m
 - google cloud services
 - flight control
 - docker
+- render
 
 
 
