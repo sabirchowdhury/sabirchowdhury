@@ -121,6 +121,7 @@ Currently, I am actively seeking a new employment opportunity that will enable m
 - flight control
 - docker
 - render
+- vercel
 
 
 
