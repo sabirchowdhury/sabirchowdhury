@@ -97,7 +97,8 @@ Figma <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" a
 - **SQL <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="" width="15"/>,
 MySQL <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="15"/>,
 Prisma <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="" height="15"/>,
-PostgreSQL <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="" width="15"/>**
+PostgreSQL <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="" width="15"/>,
+MongoDB <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mongodb.png/1200px-Mongodb.png" width="15" />**
 
   - Commercial, academic and personal projects. Various courses and modules.
 
@@ -112,9 +113,8 @@ Cypress <img src="https://blog.knoldus.com/wp-content/uploads/2022/04/cypress.pn
 Husky <img src="https://cdn-icons-png.flaticon.com/512/281/281579.png" alt="" width="15"/>,
 GitHub Actions <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="15"/>,**
 
-  - automated scripts, parallel programming
-  - batch run tasks
-  - Azure
+  - Automated testing and commit scripts (commercial and personal project experience).
+  - Batch run tasks on cloud services: i.e., Azures Virtual Machine to batch run many parallel tasks on super computers.
 
 
 
