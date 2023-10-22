@@ -66,12 +66,14 @@ C# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csh
 Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java logo" width="15"/>,
 NodeJS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="15">**
 
-  - Commercial Experience in building back end in NodeJs
-  - hobbiyist programming
-  - parallel
-  - AI
-  - uni modules, DSA
-  - currently working on C++ with RestBed
+  - Commercial Experience in building back end in NodeJs.
+  - Long time programming (10+ years) as a hobby in many of these languages.
+  - University modules and courses:
+    - Parallel Programming.
+    - Aritificial Intelligence.
+    - Data Structures and Algorithmes.
+    - Structured Programming e.t.c.,
+  - Currently experimenting and working with creating REST APIs in Restbed with C++ .
 
 
 <br />
@@ -84,7 +86,9 @@ Linear <img src="https://images.ctfassets.net/9haz2glq4wt0/3pLBZlnZeQuRqYvrzICdu
 Trello <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" alt="" width="15"/>,
 Figma <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" alt="" width="15"/>**
 
-  - commercial experience and project management
+  - Commercial experience in working in an agile environment with CI/CD.
+  - Academic group projects.
+  - Project management in leading teams of 10+ using these team work tools.
 
 
 <br />
@@ -94,6 +98,8 @@ Figma <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" a
 MySQL <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="15"/>,
 Prisma <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="" height="15"/>,
 PostgreSQL <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="" width="15"/>**
+
+  - Commercial, academic and personal projects. Various courses and modules.
 
 
 <br />
@@ -140,7 +146,7 @@ GitHub Actions <img src="https://avatars.githubusercontent.com/u/44036562?s=280&
   - **S3 <img src="" alt="" width="15"/>**
 - **Azure <img src="" alt="" width="15"/>**
 - **Google Cloud Services <img src="" alt="" width="15"/>**
-- **Flight Control <img src="" alt="" width="15"/>**
+- **Flightcontrol <img src="" alt="" width="15"/>**
 - **Docker <img src="" alt="" width="15"/>**
 - **Render <img src="" alt="" width="15"/>**
 - **Vercel <img src="" alt="" width="15"/>**
