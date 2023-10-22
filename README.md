@@ -82,6 +82,7 @@ Slack <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_
 Linear <img src="https://images.ctfassets.net/9haz2glq4wt0/3pLBZlnZeQuRqYvrzICdup/136e9ac5571abed7811bdf28dae873da/Linear_App_Logo.webp" alt="" width="15"/>,
 Trello <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" alt="" width="15"/>,
 Figma <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" alt="" width="15"/>**
+
   - commercial experience and project management
 
 
@@ -103,6 +104,7 @@ Node.js <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node
 Cypress <img src="https://blog.knoldus.com/wp-content/uploads/2022/04/cypress.png" width="15"/>,
 Husky <img src="https://cdn-icons-png.flaticon.com/512/281/281579.png" alt="" width="15"/>,
 GitHub Actions <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="15"/>,**
+
   - automated scripts, parallel programming
   - batch run tasks
   - Azure
