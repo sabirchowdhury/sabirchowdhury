@@ -61,8 +61,8 @@ Currently, I am actively seeking a new employment opportunity that will enable m
 
 - **Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="py-logo" width="15"/>,
 C <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c-logo" width="15"/>,
-C++ <img src="https://www.w3schools.com/cpp/" alt="cpp-logo" width="15"/>,
-C# <img src="https://www.w3schools.com/cs/" alt="csharp-logo" width="15"/>,
+C++ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp-logo" width="15"/>,
+C# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp-logo" width="15"/>,
 Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java logo" width="15"/>**
 
   - Commercial Experience in building back end in NodeJs
