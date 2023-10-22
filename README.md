@@ -1,4 +1,3 @@
-# WIP
 
 <h1 align="center">Hi 👋, I'm Sabir</h1>
 <h3 align="center">Software developer</h3>
@@ -78,9 +77,9 @@ Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/j
 
 - **Git <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="" width="15"/>,
 Notion <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" alt="" width="15"/>,
-Slack <img src="" alt="" width="15"/>,
-Linear <img src="" alt="" width="15"/>,
-Trello <img src="" alt="" width="15"/>,
+Slack <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="" width="15"/>,
+Linear <img src="https://images.ctfassets.net/9haz2glq4wt0/3pLBZlnZeQuRqYvrzICdup/136e9ac5571abed7811bdf28dae873da/Linear_App_Logo.webp" alt="" width="15"/>,
+Trello <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" alt="" width="15"/>,
 Figma <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" alt="" width="15"/>**
   - commercial experience and project management
 
@@ -88,20 +87,20 @@ Figma <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" a
 <br />
 <h3 align="left">Database:</h3>
 
-- **SQL <img src="" alt="" width="15"/>,
+- **SQL <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="" width="15"/>,
 MySQL <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="15"/>,
-Prisma <img src="" alt="" width="15"/>,
-PostgreSQL <img src="" alt="" width="15"/>**
+Prisma <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="" height="15"/>,
+PostgreSQL <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="" width="15"/>**
 
 
 <br />
 <h3 align="left">Testing & Scripting Languages:</h3>
 
 - **Bash <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash-logo" width="15"/>,
-Python <img src="" alt="" width="15"/>,
-Node.js <img src="" alt="" width="15"/>,
+Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" alt="" width="15"/>,
+Node.js <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="" width="15"/>,
 Cypress <img src="https://blog.knoldus.com/wp-content/uploads/2022/04/cypress.png" width="15"/>,
-Husky <img src="" alt="" width="15"/>,
+Husky <img src="https://cdn-icons-png.flaticon.com/512/281/281579.png" alt="" width="15"/>,
 GitHub Actions <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="15"/>,**
   - automated scripts, parallel programming
   - batch run tasks
@@ -114,19 +113,19 @@ GitHub Actions <img src="https://avatars.githubusercontent.com/u/44036562?s=280&
 <br />
 <h3 align="left">Logic Programming & Hardware Descriptive Languages:</h3>
 
-- **System verilog <img src="" alt="" width="15"/>**
-- **Quartus prime <img src="" alt="" width="15"/>**
-- **Modelsim <img src="" alt="" width="15"/>**
-- **FPGA <img src="" alt="" width="15"/>**
+- **System Verilog <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="" width="15"/>**
+- **Quartus Prime <img src="https://www.jackenhack.com/wp-content/uploads/2020/01/Quartus_prime_icon.png" alt="" width="15"/>**
+- **Modelsim <img src="https://downloadlynet.ir/wp-content/uploads/2020/03/ModelSim.png" alt="" width="15"/>**
+- **FPGA <img src="https://icons.veryicon.com/png/o/miscellaneous/2022-complete-collection-of-alibaba-cloud/fpga-2.png" alt="" width="15"/>**
 
 
 <br />
 <h3 align="left">Hardwares:</h3>
 
-- **Arduino <img src="" alt="" width="15"/>**
-- **Radxa Rock Pi <img src="" alt="" width="15"/>**
-- **Raspberry pi <img src="" alt="" width="15"/>**
-- **PickIT 3 <img src="" alt="" width="15"/>**
+- **Arduino <img src="https://static-00.iconduck.com/assets.00/arduino-icon-2048x1397-pmu0lemh.png" alt="" width="15"/>**
+- **Radxa Rock Pi <img src="https://dl.radxa.com/media/logo/rockpi1x4.svg" alt="" height="15"/>**
+- **Raspberry pi <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="" width="15"/>**
+- **PickIT 3 <img src="https://sigaris-electronics.eu/wp-content/uploads/2018/09/Microchip_Miniaturka_300x300.jpg" alt="" width="15"/>**
 
 
 <br />
