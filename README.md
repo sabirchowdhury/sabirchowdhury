@@ -61,9 +61,9 @@ Currently, I am actively seeking a new employment opportunity that will enable m
 
 - **Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="py-logo" width="15"/>,
 C <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c-logo" width="15"/>,
-C++ <img src="" alt="cpp-logo" width="15"/>,
-C# <img src="" alt="csharp-logo" width="15"/>,
-Java <img src="" alt="java logo" width="15"/>**
+C++ <img src="https://www.w3schools.com/cpp/" alt="cpp-logo" width="15"/>,
+C# <img src="https://www.w3schools.com/cs/" alt="csharp-logo" width="15"/>,
+Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java logo" width="15"/>**
 
   - Commercial Experience in building back end in NodeJs
   - hobbiyist programming
@@ -114,33 +114,33 @@ GitHub Actions <img src="https://avatars.githubusercontent.com/u/44036562?s=280&
 <br />
 <h3 align="left">Logic Programming & Hardware Descriptive Languages:</h3>
 
-- **System verilog**
-- **Quartus prime**
-- **Modelsim**
-- **FPGA**
+- **System verilog <img src="" alt="" width="15"/>**
+- **Quartus prime <img src="" alt="" width="15"/>**
+- **Modelsim <img src="" alt="" width="15"/>**
+- **FPGA <img src="" alt="" width="15"/>**
 
 
 <br />
 <h3 align="left">Hardwares:</h3>
 
-- **Arduino**
-- **Radxa Rock Pi**
-- **Raspberrt pi**
-- **PickIT 3**
+- **Arduino <img src="" alt="" width="15"/>**
+- **Radxa Rock Pi <img src="" alt="" width="15"/>**
+- **Raspberry pi <img src="" alt="" width="15"/>**
+- **PickIT 3 <img src="" alt="" width="15"/>**
 
 
 <br />
 <h3 align="left">Deployment & Cloud:</h3>
 
-- **AWS**
-  - **EC2** 
-  - **S3**
-- **Azure**
-- **Google Cloud Services**
-- **Flight Control**
-- **Docker**
-- **Render**
-- **Vercel**
+- **AWS <img src="" alt="" width="15"/>**
+  - **EC2 <img src="" alt="" width="15"/>** 
+  - **S3 <img src="" alt="" width="15"/>**
+- **Azure <img src="" alt="" width="15"/>**
+- **Google Cloud Services <img src="" alt="" width="15"/>**
+- **Flight Control <img src="" alt="" width="15"/>**
+- **Docker <img src="" alt="" width="15"/>**
+- **Render <img src="" alt="" width="15"/>**
+- **Vercel <img src="" alt="" width="15"/>**
 
 
 
@@ -181,7 +181,9 @@ GitHub Actions <img src="https://avatars.githubusercontent.com/u/44036562?s=280&
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
