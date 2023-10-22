@@ -77,7 +77,7 @@ NodeJS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.
 
 
 <br />
-<h3 align="left">Team Work Tools:</h3>
+<h3 align="left">Teamwork Tools:</h3>
 
 - **Git <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="" width="15"/>,
 Notion <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" alt="" width="15"/>,
@@ -88,7 +88,7 @@ Figma <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" a
 
   - Commercial experience in working in an agile environment with CI/CD.
   - Academic group projects.
-  - Project management in leading teams of 10+ using these team work tools.
+  - Project management in leading teams of 10+ using these teamwork tools.
 
 
 <br />
