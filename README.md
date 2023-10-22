@@ -65,8 +65,12 @@ Currently, I am actively seeking a new employment opportunity that will enable m
 - uni modules, DSA
 - currently working on 
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="py-logo" width="15"/> **Python**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c-logo" width="15"/> **C**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="py-logo" width="15"/> **Python**,
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c-logo" width="15"/> **C**,
+C++,
+C#,
+Java
+ 
 
 
 <br />
@@ -79,7 +83,7 @@ Currently, I am actively seeking a new employment opportunity that will enable m
 
 <br />
 <h3 align="left">Database:</h3>
-- SQL -MySQL -Prisma -PostgreSQL
+- SQL, MySQL, Prisma, PostgreSQL
 - <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="15"/> **MySQL**
 
 
