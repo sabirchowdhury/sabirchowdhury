@@ -6,6 +6,9 @@
 
 <h2 align="left">About me:</h2>  
 
+
+<img align="right" width="200" src="https://github.com/sabirchowdhury/sabirchowdhury/assets/86669633/27d00152-28c6-4caa-93a0-644aee06a43d" />
+
 I'm a software developer based in the UK, with a background in small/medium growing companies.
 
 - I am currently advancing my understanding in AI & Machine Leaarning, and its implementation.
