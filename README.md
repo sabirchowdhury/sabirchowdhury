@@ -23,7 +23,6 @@ I'm a software developer based in the UK, with a background in small/medium grow
 
 <br />
 
-
 <h2 align="left">Languages and Tools:</h2>
 
 <h3 align="left">Front-End Languages:</h3>
